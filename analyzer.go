@@ -9,7 +9,7 @@ package sqlparser
 import (
 	"fmt"
 
-	"github.com/surge/sqlparser/sqltypes"
+	"github.com/zhenjl/sqlparser/sqltypes"
 )
 
 // GetTableName returns the table name from the SimpleTableExpr

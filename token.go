@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/surge/sqlparser/sqltypes"
+	"github.com/zhenjl/sqlparser/sqltypes"
 )
 
 const EOFCHAR = 0x100
